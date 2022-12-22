@@ -1,0 +1,11 @@
+.menu__item {
+    font-size: 11px;
+    color: #FFFFFF;
+    list-style-type: none;
+    font-family: "Nunito Sans";
+    height: 10px;
+}
+
+.menu__item:first-child {
+    color:#E3B873;
+}

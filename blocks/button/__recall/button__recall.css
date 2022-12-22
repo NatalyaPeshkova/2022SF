@@ -1,0 +1,16 @@
+.button__recall {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 161px;
+    height: 37px;
+    border-radius: 2px;
+    background-color: #E3B873;
+    color: #FFFFFF;
+    font-family: "Nunito Sans";
+    font-style: italic;
+    font-size: 11px;
+    text-shadow: 1px 1px 1px #000;
+    /* -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: #000; */
+}
