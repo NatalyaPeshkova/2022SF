@@ -1,10 +1,23 @@
 @import url(../vendor/normalize.css);
+@import url(../blocks/common/common.css);
+
 @import url(../blocks/wrapper/wrapper.css);
+
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/button-hero/button-hero.css);
+
 @import url(../blocks/header/header.css);
+
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/menu/menu.css);
 @import url(../blocks/menu/__item/menu__item.css);
 @import url(../blocks/phone/phone.css);
 @import url(../blocks/phone/__link/phone__link.css);
-@import url(../blocks/button/__recall/button__recall.css);
+
+
+@import url(../blocks/hero-img/hero-img.css);
 @import url(../blocks/hero-section/hero-section.css);
+@import url(../blocks/hero-section/__title/hero-section__title.css);
+@import url(../blocks/hero-section/__title_orange/hero-section__orange-title.css);
+@import url(../blocks/hero-section/__text/hero-section__text.css);
+@import url(../blocks/hero-section/hero-btns/hero-btns.css);

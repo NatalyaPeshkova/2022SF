@@ -1,0 +1,10 @@
+.hero-section__title {
+    font-family: "Yeseva One";
+    font-size: 40px;
+    color: #FFFFFF;
+    line-height: 139%;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 0;
+}
