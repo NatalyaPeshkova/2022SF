@@ -3,9 +3,11 @@
     margin: 0 auto;
     width: 1171px;
     padding-top: 107px;
+    padding-bottom: 415px;
     display: grid;
     grid-template-columns: 442px 679px;
     grid-template-areas: 
     "empty projects-links"
     "projects-deckription projects-img";
+    column-gap: 50px;
 }

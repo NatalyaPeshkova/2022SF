@@ -1,0 +1,11 @@
+.projects-specification__title {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: #E3B873;
+    margin: 0;
+    margin-bottom: 9px;
+}
