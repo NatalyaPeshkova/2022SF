@@ -1,0 +1,11 @@
+.projects-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Yeseva One";
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 45px;
+}
+

@@ -2,6 +2,7 @@
 @import url(../blocks/common/common.css);
 
 @import url(../blocks/wrapper/wrapper.css);
+@import url(../blocks/wrapper/wrapper_prodjects/wrapper_prodjects.css);
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/button-hero/button-hero.css);
@@ -21,3 +22,10 @@
 @import url(../blocks/hero-section/__title_orange/hero-section__orange-title.css);
 @import url(../blocks/hero-section/__text/hero-section__text.css);
 @import url(../blocks/hero-section/hero-btns/hero-btns.css);
+
+@import url(../blocks/line-gray/line-gray.css);
+
+@import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/projects-links/projects-links.css);
+@import url(../blocks/projects/projects-link/projects-link.css);
+
