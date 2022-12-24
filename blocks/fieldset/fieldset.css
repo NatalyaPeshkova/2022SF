@@ -1,0 +1,9 @@
+.fieldset {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border: none;
+    width: 759px;
+    height: 61px;
+}

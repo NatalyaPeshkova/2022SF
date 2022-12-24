@@ -1,4 +1,5 @@
-.projects-link:first-of-type {
-    color: #E3B873;
-    text-decoration: underline;
+.projects-link {
+    color: #FFFFFF;
+    opacity: .7;
+    text-decoration: none;
 }

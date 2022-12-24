@@ -4,11 +4,12 @@
     list-style-type: none;
     font-family: "Nunito Sans";
     height: 10px;
+    text-decoration:none;
 }
 
-.menu__item:first-child {
+/* .menu__item:first-child {
     color:#E3B873;
-}
+} */
 
 /* .menu__item:hover {
     color:#E3B873;

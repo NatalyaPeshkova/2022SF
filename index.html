@@ -15,14 +15,14 @@
                 <header class="header">
                     <div class="logo">IC "Repair Design Project"          </div>
                             <ul class="menu">
-                                <li class="menu__item"><a>HOME</a></li>
-                                <li class="menu__item"><a>PROJECTS</a></li>
-                                <li class="menu__item"><a>MEASUREMENT</a></li>    
-                                <li class="menu__item"><a>TEAM</a></li>  
-                                <li class="menu__item"><a>REVIEWS</a></li>    
-                                <li class="menu__item"><a>CONTACTS</a></li>            
+                                <li><a class="menu__item color-orange" href="#" target="_blank" title="sometext">HOME</a></li>
+                                <li><a class="menu__item" href="#" target="_blank" title="sometext">PROJECTS</a></li>
+                                <li><a class="menu__item" href="#" target="_blank" title="sometext">MEASUREMENT</a></li>    
+                                <li><a class="menu__item" href="#" target="_blank" title="sometext">TEAM</a></li>  
+                                <li><a class="menu__item" href="#" target="_blank" title="sometext">REVIEWS</a></li>    
+                                <li><a class="menu__item" href="#" target="_blank" title="sometext">CONTACTS</a></li>            
                             </ul>
-                        <div class="phone"><a class="phone__link" href="tel:+79287683239">+7 (928) 768-32-39</a></div>
+                        <div class="phone"><a class="phone__link" href="tel:+79287683239" title="sometext">+7 (928) 768-32-39</a></div>
                         <div> <button class="button"> REQUEST A CALL </button> </div>
                 </header>
             </div>
@@ -49,9 +49,9 @@
                 <section class="projects">
                     <div class="empty"></div>
                     <nav class="projects-links">
-                        <li class="projects-link"><a> Rostov-on-Don, Admiral </a></li>
-                        <li class="projects-link"><a> Sochi Thieves </a></li>
-                        <li class="projects-link"><a> Rostov-on-Don Patriotic </a></li>    
+                        <li><a class="projects-link color-orange" href="#" target="_blank" title="sometext"> Rostov-on-Don, Admiral </a></li>
+                        <li><a class="projects-link" href="#" target="_blank" title="sometext"> Sochi Thieves </a></li>
+                        <li><a class="projects-link" href="#" target="_blank" title="sometext"> Rostov-on-Don Patriotic </a></li>    
                     </nav>
                     <div class="projects-description"> 
                         <h2 class="projects-description__title"> Completed projects </h2>
@@ -77,16 +77,42 @@
                                 <p class="projects-specification__text"> Upon request </p>
                             </div>
                         </div>
-                        <img class="projects__arrow" src="./img/projects arrows.svg">
+                        <img class="projects__arrow" src="./img/projects arrows.svg"  alt="навигация">
                     </div>
-                    <img class="projects-img" src="./img/projects-img.jpg">
+                    <img class="projects-img" src="./img/projects-img.jpg" alt="фото проекта">
                 </section>
             </div>
 
             <div class="wrapper">
                 <section class="online-control">
-                    <img class="online-control__title" src="./img/Group 45.svg">
+                    <img class="online-control__title" src="./img/Group 45.svg" alt="иконка">
+                    <img class="online-control__video" src="./img/Group 68.svg" alt="видео">
+                    <img class="online-control__line" src="./img/Rectangle 6.9.svg" alt="декоративный элемент">
+                    <p class="online-control__text">At each facility, a camera is installed that broadcasts the progress of work on the<br>
+                        clock. At any time, you can go to our website and monitor the progress of work in<br>
+                        your apartment. You can watch the live broadcast from one of our facilities!<br>
+                        Leave a request below and you will receive a link to the broadcast.</p>
+                        <form class="form" action="#" method="post">
+                            <fieldset class="fieldset">
+                                <div class="box">
+                                    <label class="box__label" for="name"> Name </label>
+                                    <input class="box__input" type="text" id="name" placeholder="Enter your name">
+                                </div>
+                                <div class="box">
+                                    <label class="box__label" for="phone"> Phone </label>
+                                    <input class="box__input" type="text" id="phone" placeholder="Enter your phone">
+                                </div>
+                            <button class="fieldset__button">  SUBMIT  </button>
+                            </fieldset>
+                        </form>
 
+                        <div class="first-checkbox">
+                            <label class="label">
+                            <input type="checkbox" class="checkbox" >
+                            <span class="fake"></span>
+                            <span class="text">I agree to the processing of personal data.</span>
+                            </label>
+                        </div>
                 </section>
             </div>
 
