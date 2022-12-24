@@ -1,0 +1,12 @@
+.online-control {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* margin: 0 auto; */
+    border: 3px solid green;
+    width: 817px;
+    position: absolute;
+    top: 1555px;
+    left: 311px;
+}

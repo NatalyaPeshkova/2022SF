@@ -21,17 +21,23 @@
 @import url(../blocks/hero-section/__title/hero-section__title.css);
 @import url(../blocks/hero-section/__title_orange/hero-section__orange-title.css);
 @import url(../blocks/hero-section/__text/hero-section__text.css);
-@import url(../blocks/hero-section/hero-btns/hero-btns.css);
+@import url(../blocks/hero-btns/hero-btns.css);
 
 @import url(../blocks/line-gray/line-gray.css);
 
 @import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/__arrow/projects__arrow.css);
 @import url(../blocks/projects/projects-links/projects-links.css);
 @import url(../blocks/projects/projects-link/projects-link.css);
-@import url(../blocks/projects/projects-description/projects-description.css);
-@import url(../blocks/projects/projects-description__title/projects-description__title.css);
-@import url(../blocks/projects/projects-description__text/projects-description__text.css);
-@import url(../blocks/projects/projects-specifications/projects-specifications.css);
-@import url(../blocks/projects/projects-specification__title/projects-specification__title.css);
-@import url(../blocks/projects/projects-specification__text/projects-specification__text.css);
-@import url(../blocks/projects/projects__arrow/projects__arrow.css)
+
+@import url(../blocks/projects-deckription/projects-deckription.css);
+@import url(../blocks/projects-description/__title/projects-description__title.css);
+@import url(../blocks/projects-description/__text/projects-description__text.css);
+
+@import url(../blocks/projects-specifications/projects-specifications.css);
+@import url(../blocks/projects-specifications/__title/projects-specification__title.css);
+@import url(../blocks/projects-specifications/__text/projects-specification__text.css);
+
+
+@import url(../blocks/online-control/online-control.css);
+@import url(../blocks/online-control/__title/online-control__title.css);
