@@ -47,3 +47,7 @@
 @import url(../blocks/menu/__item/color-orange.css);
 
 @import url(../blocks/fieldset/fieldset.css);
+@import url(../blocks/fieldset/__button/fieldset__button.css);
+@import url(../blocks/fieldset-box/fieldset-box.css);
+@import url(../blocks/fieldset-box/__label/fieldset-box__label.css);
+@import url(../blocks/fieldset-box/__input/fieldset-box__input.css);

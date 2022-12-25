@@ -1,0 +1,9 @@
+.fieldset-box {
+    display: flex;
+    flex-direction: column;
+    width: 231px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
