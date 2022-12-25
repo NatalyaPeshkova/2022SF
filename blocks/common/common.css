@@ -6,3 +6,7 @@ body {
 a:hover {
     color:#E3B873;
 }
+
+.display-none {
+    display: none;
+}
