@@ -1,0 +1,10 @@
+.element__title {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #363636;
+    margin-top: 0;
+    margin-bottom: 13px;
+}

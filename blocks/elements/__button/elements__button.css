@@ -1,0 +1,8 @@
+.elements__button {
+    z-index: 2;
+    position: absolute;
+    text-shadow: none;
+    top: 525px;
+    left: 32px;
+    border-radius: 0;
+}

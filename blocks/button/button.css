@@ -10,6 +10,7 @@
     font-style: italic;
     font-size: 11px;
     text-shadow: 1px 1px 1px #000;
+    text-transform: uppercase;
 }
 
 .button:hover {
