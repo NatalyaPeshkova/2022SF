@@ -1,12 +1,14 @@
 .fieldset-box__input {
-    color: #363636;
     border: none;
     border-bottom: 1px solid #363636;
     margin-right: 77px;
+}
+
+.fieldset-box__input::placeholder {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 23px;
+    line-height: 23px; 
+    color: #363636;
 }
-

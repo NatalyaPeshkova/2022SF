@@ -8,4 +8,10 @@
 .fieldset-box__input_request::placeholder {
     background-color: black;
     opacity: 1;
+    color: white;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 23px;
 }
