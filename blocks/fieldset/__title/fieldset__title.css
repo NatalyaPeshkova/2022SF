@@ -1,4 +1,4 @@
-.request__title {
+.fieldset__title {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -6,4 +6,5 @@
     line-height: 26px;
     text-align: center;
     color: #FFFFFF;
+    margin-bottom: 0;
 }

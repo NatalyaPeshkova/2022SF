@@ -1,0 +1,11 @@
+.fieldset-box__input_request{
+    margin-right: 0;
+    border-bottom: none;
+    line-height: 0;
+    background-color:black;
+}
+
+.fieldset-box__input_request::placeholder {
+    background-color: black;
+    opacity: 1;
+}
