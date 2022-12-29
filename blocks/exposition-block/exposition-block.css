@@ -1,0 +1,17 @@
+.exposition-block {
+    margin-top: -42px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-height: 945px;
+}
+
+.exposition-block img:first-child{
+    margin-bottom: 40px;
+}
+
+.exposition-block img:last-child{
+    width: 353px;
+    height: 350px;
+}
+

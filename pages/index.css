@@ -1,5 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/common/common.css);
+@import url(../blocks/common/color-orange.css);
 
 @import url(../blocks/wrapper/wrapper.css);
 @import url(../blocks/wrapper/wrapper_prodjects/wrapper_prodjects.css);
@@ -44,8 +45,6 @@
 @import url(../blocks/online-control/__line/online-control__line.css);
 @import url(../blocks/online-control/__text/online-control__text.css);
 
-@import url(../blocks/menu/__item/color-orange.css);
-
 @import url(../blocks/fieldset/fieldset.css);
 @import url(../blocks/fieldset/__button/fieldset__button.css);
 @import url(../blocks/fieldset-box/fieldset-box.css);
@@ -73,4 +72,11 @@
 @import url(../blocks/form/__title/form__title.css);
 @import url(../blocks/fieldset/_request/_request.css);
 
-@import url(../blocks/exposition/__img/exposition__img.css);
+@import url(../blocks/exposition/exposition.css);
+
+@import url(../blocks/exposition-text/exposition-text.css);
+@import url(../blocks/exposition-text/__title/exposition-text__title.css);
+@import url(../blocks/exposition-text/__links/exposition-text__links.css);
+@import url(../blocks/exposition-text/__link/exposition-text__link.css);
+@import url(../blocks/exposition-block/exposition-block.css);
+@import url(../blocks/exposition-block/_second/exposition-block_second.css);

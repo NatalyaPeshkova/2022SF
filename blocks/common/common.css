@@ -10,3 +10,7 @@ a:hover {
 .display-none {
     display: none;
 }
+
+li{
+    list-style-type: none;
+}
