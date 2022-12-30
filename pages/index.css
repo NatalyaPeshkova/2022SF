@@ -80,3 +80,6 @@
 @import url(../blocks/exposition-text/__link/exposition-text__link.css);
 @import url(../blocks/exposition-block/exposition-block.css);
 @import url(../blocks/exposition-block/_second/exposition-block_second.css);
+
+@import url(../blocks/clients/clients.css);
+@import url(../blocks/clients/clients__text/clients__text.css);
