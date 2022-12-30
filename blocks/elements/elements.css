@@ -1,6 +1,4 @@
 .elements {
-    /* display: flex;
-    flex-direction: row; */
     display: grid;
     justify-content: space-between;
     grid-template-columns: repeat(3, auto);

@@ -83,3 +83,10 @@
 
 @import url(../blocks/clients/clients.css);
 @import url(../blocks/clients/clients__text/clients__text.css);
+@import url(../blocks/clients-elements/clients-elements.css);
+@import url(../blocks/clients-element/clients-element.css);
+@import url(../blocks/clients-element/__img/clients-element__img.css);
+@import url(../blocks/clients-element/__header/clients-element__header.css);
+@import url(../blocks/clients-element/__title/clients-element__title.css);
+@import url(../blocks/clients-element/__text/clients-element__text.css);
+@import url(../blocks/clients-element/__button/clients-element__button.css);

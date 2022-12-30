@@ -1,0 +1,8 @@
+.clients-elements {
+    width: 1236px;
+    grid-template-columns: repeat(3, 376px);
+    grid-column-gap: 54px;
+    margin: 0;
+    padding: 0;
+    margin-top: 40px;
+}

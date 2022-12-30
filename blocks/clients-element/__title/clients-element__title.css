@@ -1,0 +1,11 @@
+.clients-element__title{
+    width: 178px;
+    height: 42px;
+    margin-left: 23px;
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #181818;
+}

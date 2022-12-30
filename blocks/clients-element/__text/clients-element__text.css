@@ -1,0 +1,10 @@
+.clients-element__text{
+    margin-top: 22px;
+    margin-bottom: 40px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 180%;
+    color: #959595;
+}
