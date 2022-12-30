@@ -1,0 +1,15 @@
+.question-block{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    width: 883px;
+    height: 445px;
+    position: absolute;
+    top: auto;
+    left: 311px;
+    background-color: black;
+    /* padding-top: 34px;
+    padding-bottom: 34px; */
+
+}

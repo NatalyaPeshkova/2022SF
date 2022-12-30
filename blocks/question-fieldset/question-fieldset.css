@@ -1,0 +1,13 @@
+.question-fieldset{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 520px;
+    height: 289px;
+    border: none;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+

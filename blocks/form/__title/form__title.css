@@ -8,3 +8,18 @@
     color: #FFFFFF;
     margin-bottom: 0;
 }
+
+.form_question .form__title{
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    margin-bottom: 44px;
+    margin-top: 53px;
+    align-self: center;
+}

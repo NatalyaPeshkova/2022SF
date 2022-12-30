@@ -1,0 +1,12 @@
+.question-fieldset__input{
+    border: none;
+    border-bottom: 1px solid #363636;
+    background-color: black;
+    opacity: 1;
+    color: white;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 23px;
+}
