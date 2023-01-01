@@ -6,5 +6,19 @@
     line-height: 37px;
     text-align: center;
     color: #363636;
-    /* width: 681px; */
+    width: 681px;
+}
+
+@media screen and (max-width: 1300px) {
+    .online-control__text {
+        font-family: 'Nunito Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 169.8%;
+        text-align: center;
+        color: #FFFFFF;
+        width: 340px;
+        margin-bottom: 61px;
+    }
 }

@@ -9,3 +9,13 @@
 .element:last-child {
     margin-right: 0;
 }
+
+
+@media screen and (max-width: 1300px) {
+    .element{
+        margin: 40px 18px 0 18px;
+        width: 340px;
+        height: 484px;
+        margin-bottom: 59px;
+    }
+}

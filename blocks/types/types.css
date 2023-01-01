@@ -6,3 +6,10 @@
     margin-top: 579px;
     margin-bottom: 124px;
 }
+
+@media screen and (max-width: 1300px) {
+    .types{
+        margin-top: 0;
+        padding-top: 67px;
+    }
+}

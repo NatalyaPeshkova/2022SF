@@ -8,3 +8,12 @@
     height: 61px;
     margin-bottom: 33px;
 }
+
+@media screen and (max-width: 1300px) {
+    .online-control .fieldset {
+        flex-direction: column;
+        width: 340px;
+        height: auto;
+        margin-bottom: 0;
+    }
+}

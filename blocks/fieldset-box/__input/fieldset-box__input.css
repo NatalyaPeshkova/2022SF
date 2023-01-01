@@ -1,7 +1,15 @@
 .fieldset-box__input {
-    border: none;
+    border:none;
     border-bottom: 1px solid #363636;
     margin-right: 77px;
+}
+
+@media screen and (max-width: 1300px) {
+    .fieldset-box__input {
+        background-color: black;
+        border-color: black;
+        margin-right: 0;
+    }
 }
 
 .fieldset-box__input::placeholder {
@@ -11,4 +19,16 @@
     font-size: 14px;
     line-height: 23px; 
     color: #363636;
+    border:none;
 }
+
+
+
+@media screen and (max-width: 1300px) {
+    .fieldset-box__input::placeholder {
+        background-color: black;
+        border-color: black;
+        color: white;
+    }
+}
+

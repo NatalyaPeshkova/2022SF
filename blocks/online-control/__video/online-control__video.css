@@ -3,3 +3,10 @@
     height: 434px;
     margin-top: 31px;
 }
+
+@media screen and (max-width: 1300px) {
+    .online-control__video {
+        width: 375px;
+        height: auto;
+    }
+}

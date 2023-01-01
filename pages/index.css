@@ -64,11 +64,12 @@
 @import url(../blocks/types/types.css);
 
 @import url(../blocks/elements/elements.css);
-@import url(../blocks/elements/__button/elements__button.css);
 
 @import url(../blocks/element/element.css);
 @import url(../blocks/element/__card/element__card.css);
 @import url(../blocks/element/__title/element__title.css);
+@import url(../blocks/element/__img/element__img.css);
+@import url(../blocks/element/__button/element__button.css);
 
 @import url(../blocks/request/request.css);
 @import url(../blocks/request/__icon/request__icon.css);

@@ -3,3 +3,23 @@
     height: 51px;
     text-shadow: none
 }
+
+@media screen and (max-width: 1300px) {
+    .fieldset__button {
+        display: none;
+    }
+}
+
+.fieldset__button_mobil{
+    display: none;
+}
+
+@media screen and (max-width: 1300px) {
+    .fieldset__button_mobile {
+        width: 340px;
+        height: 51px;
+        text-shadow: none;
+        margin-bottom: -25px;
+
+    }
+}

@@ -7,6 +7,9 @@
     margin-right: 101px;
 }
 
-/* для мобильной версии будет: 
-grid-template-columns: repeat(1, auto);
-    grid-template-rows: repeat(3, auto); */
+@media screen and (max-width: 1300px) {
+    .elements{
+        grid-template-columns: repeat(1, auto);
+        grid-template-rows: repeat(3, auto);
+    }
+}

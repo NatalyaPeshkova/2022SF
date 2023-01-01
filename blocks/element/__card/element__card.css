@@ -1,9 +1,7 @@
 .element__card {
     position: absolute;
-    /* z-index: 1; */
     top: 294px;
     left: 31px;
-    /* right: 31px; */
     box-sizing: border-box;
     background-color: white;
     padding: 25px 29px 49px 34px;
@@ -15,4 +13,14 @@
     line-height: 27px;
     color: #959595;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.03);
+}
+
+@media screen and (max-width: 1300px) {
+    .element__card{
+        left: 0;
+        top: 223px;
+        width: 270px;
+        height: 241px;
+
+    }
 }
