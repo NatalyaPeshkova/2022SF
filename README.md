@@ -14,9 +14,8 @@
 
 ### Технологии
 При создании данной работы были использованы следующие средства проверки и улучшения кода:
-*ul  https://jigsaw.w3.org/css-validator/validator
-*ul  https://validator.w3.org/nu/#textarea
+*ul  https://validator.w3.org/nu/
 *ul  https://nglazov.github.io/bem-validator-page/
-*ul  https://autoprefixer.github.io/ru/
 
-GitHub Pages:https://natalyapeshkova.github.io/russian-travel/
+
+GitHub Pages: "soon"
