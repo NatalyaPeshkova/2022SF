@@ -99,3 +99,7 @@
 @import url(../blocks/question-fieldset/question-fieldset.css);
 @import url(../blocks/question-fieldset/__input/question-fieldset__input.css);
 @import url(../blocks/question-fieldset/__label/question-fieldset__label.css);
+
+@import url(../blocks/map/map.css);
+@import url(../blocks/map/__title/map__title.css);
+@import url(../blocks/map/__icon/map__icon.css);

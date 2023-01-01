@@ -1,7 +1,8 @@
 .clients {
     margin-top: 100px;
+    margin-bottom: 0;
     height: 1000px;
     background-image: url(../../img/Frame-bgd-clients.svg);
     background-size: contain;
-    justify-content: start;
+
 }

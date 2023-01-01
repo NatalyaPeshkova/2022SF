@@ -9,6 +9,7 @@
     top: auto;
     left: 311px;
     background-color: black;
+    z-index: 3;
     /* padding-top: 34px;
     padding-bottom: 34px; */
 
