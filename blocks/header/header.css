@@ -8,3 +8,11 @@
     padding: 23px 82px 23px 100px;
     max-width: 1256px;
 }
+
+
+@media screen and (max-width: 1300px) {
+    .header {
+        padding: 23px 18px;
+        background-color: red;
+    }
+}

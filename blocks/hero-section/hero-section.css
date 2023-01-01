@@ -6,3 +6,10 @@
     height: 305px;    
 }
 
+@media screen and (max-width: 1300px) {
+    .hero-section {
+        width: 375px;
+        left: 18px;
+        top: 142px;
+    }
+}

@@ -2,3 +2,9 @@
     width: 205px;
     margin-top: 45px;
 }
+
+@media screen and (max-width: 1300px) {
+    .projects__arrow {
+        display: none;
+    }
+}

@@ -6,3 +6,11 @@
     margin-top: 19px;
     margin-bottom: 20px;
 }
+
+@media screen and (max-width: 1300px) {
+    .hero-section__text {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 135.84%;
+    }
+}

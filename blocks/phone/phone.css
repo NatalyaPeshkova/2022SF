@@ -1,5 +1,10 @@
 .phone {
     max-width: 126px;
-    width: 100%;
     margin-left: 90px;
+}
+
+@media screen and (max-width: 1300px) {
+    .phone{
+        margin-left: 56px;
+    }
 }

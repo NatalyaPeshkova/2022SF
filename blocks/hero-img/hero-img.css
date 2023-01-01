@@ -7,6 +7,14 @@
     height: 707px;
 }
 
+@media screen and (max-width: 1300px) {
+    .hero-img {
+        width: 375px;
+		height: 476px;
+		background-image: url(../../img/hero-imgBGR.jpg);
+    }
+}
+
 .hero-img:before {
     content: '';
 	display: block;
@@ -18,4 +26,11 @@
 	right: 0;
 	bottom: 0;
 	background-color:rgba(0, 0, 0, .5);
+}
+
+
+@media screen and (max-width: 1300px) {
+    .hero-img {
+        width: 375px;
+    }
 }

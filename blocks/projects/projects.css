@@ -1,7 +1,8 @@
 .projects {
     color: white;
     margin: 0 auto;
-    width: 1171px;
+    width: 100%;
+    max-width: 1171px;
     padding-top: 107px;
     padding-bottom: 415px;
     display: grid;

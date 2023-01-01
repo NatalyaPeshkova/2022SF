@@ -8,3 +8,11 @@
     margin-top: 0;
     margin-bottom: 0;
 }
+
+@media screen and (max-width: 1300px) {
+    .hero-section__title {
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 132.83%;
+    }
+}

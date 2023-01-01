@@ -9,6 +9,7 @@
 @import url(../blocks/button/_hero/button_hero.css);
 @import url(../blocks/button/_request/button_request.css);
 @import url(../blocks/button/_question/button_question.css);
+@import url(../blocks/button/_header/button_header.css);
 
 @import url(../blocks/header/header.css);
 
@@ -29,6 +30,7 @@
 @import url(../blocks/line-gray/line-gray.css);
 
 @import url(../blocks/projects/projects.css);
+@import url(../blocks/projects/__img/projects-img.css);
 @import url(../blocks/projects/__arrow/projects__arrow.css);
 @import url(../blocks/projects/projects-links/projects-links.css);
 @import url(../blocks/projects/projects-link/projects-link.css);

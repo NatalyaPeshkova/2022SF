@@ -8,3 +8,9 @@
     width: 100%;
     max-width: 582px;
 }
+
+@media screen and (max-width: 1300px) {
+    .menu {
+        display: none;
+    }
+}
