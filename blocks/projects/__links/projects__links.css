@@ -1,4 +1,4 @@
-.projects-links {
+.projects__links {
     list-style-type: none;
     display: flex;
     justify-content: space-between;
@@ -9,3 +9,8 @@
     margin-bottom: 45px;
 }
 
+@media screen and (max-width: 1300px) {
+    .projects__links{
+        display: none;
+    }
+}

@@ -1,5 +1,4 @@
 body {
-    margin: 0 auto;
     width: 1440px;
 }
 
@@ -15,3 +14,9 @@ a:hover {
 li{
     list-style-type: none;
 }
+
+/* .empty{
+    width: 0;
+    height: 0;
+    display: none;
+} */

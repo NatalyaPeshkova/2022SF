@@ -10,3 +10,13 @@
     margin-inline-start: 0;
     margin-inline-end: 0;
 }
+
+@media screen and (max-width: 1300px) {
+    .projects-description__text{
+        font-weight: 400;
+        font-size: 11px;
+        line-height: 158.48%;
+        text-align: center;
+    }
+}
+

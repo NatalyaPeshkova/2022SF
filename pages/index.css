@@ -1,6 +1,4 @@
 @import url(../vendor/normalize.css);
-@import url(../blocks/common/common.css);
-@import url(../blocks/common/color-orange.css);
 
 @import url(../blocks/wrapper/wrapper.css);
 @import url(../blocks/wrapper/wrapper_prodjects/wrapper_prodjects.css);
@@ -32,12 +30,15 @@
 @import url(../blocks/projects/projects.css);
 @import url(../blocks/projects/__img/projects-img.css);
 @import url(../blocks/projects/__arrow/projects__arrow.css);
-@import url(../blocks/projects/projects-links/projects-links.css);
-@import url(../blocks/projects/projects-link/projects-link.css);
+@import url(../blocks/projects/__links/projects__links.css);
+@import url(../blocks/projects/__link/projects__link.css);
 
-@import url(../blocks/projects-deckription/projects-deckription.css);
+
+@import url(../blocks/projects-description/projects-description.css);
 @import url(../blocks/projects-description/__title/projects-description__title.css);
 @import url(../blocks/projects-description/__text/projects-description__text.css);
+@import url(../blocks/projects-description/__img/projects-description__img.css);
+@import url(../blocks/projects-description/__icon/projects-description__icon.css);
 
 @import url(../blocks/projects-specifications/projects-specifications.css);
 @import url(../blocks/projects-specifications/__title/projects-specification__title.css);
@@ -108,3 +109,6 @@
 @import url(../blocks/map/__image/map__image.css);
 
 @import url(../blocks/footer/footer.css);
+
+@import url(../blocks/common/color-orange.css);
+@import url(../blocks/common/common.css);

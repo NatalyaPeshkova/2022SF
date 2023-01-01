@@ -8,3 +8,14 @@
     line-height: 37px;
     letter-spacing: -0.07em;
 }
+
+@media screen and (max-width: 1300px) {
+    .projects-description__title{
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 138.6%;
+        text-align: center;
+        letter-spacing: -0.07em;
+    }
+}
+

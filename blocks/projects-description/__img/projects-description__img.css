@@ -1,0 +1,16 @@
+.projects-description__img{
+    display: none;
+}
+
+
+@media screen and (max-width: 1300px) {
+    .projects-description__img{
+        display: flex;
+        width: 340px;
+        height: 241px;
+        background-image: url(../../../img/progects-mobileBGND.jpg);
+        margin-top: 67px;
+    }
+}
+
+

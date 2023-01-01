@@ -1,6 +1,12 @@
-.projects-description {
+.projects-description{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    
+}
+
+@media screen and (max-width: 1300px) {
+    .projects-description {
+        justify-content: center;
+        align-items: center;
+    }
 }
