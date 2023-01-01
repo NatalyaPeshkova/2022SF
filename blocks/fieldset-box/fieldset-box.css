@@ -7,3 +7,16 @@
     font-weight: 400;
     font-size: 14px;
 }
+
+.question-fieldset .fieldset-box{
+    width: 231px;
+}
+
+.question-fieldset .fieldset-box:first-child{
+    margin-right: 57px;
+}
+
+.question-fieldset .fieldset-box:last-child{
+    width: 100%;
+    margin-top: 47px;
+}

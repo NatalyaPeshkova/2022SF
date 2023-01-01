@@ -5,6 +5,7 @@ body {
 
 a:hover {
     color:#E3B873;
+    cursor: pointer;
 }
 
 .display-none {

@@ -38,8 +38,8 @@
                     cost of materials due to the organization of work
                 </div>
                 <div class="hero-btns">
-                    <button class="button button-hero" type="submit">CALCULATE THE COST</button>
-                    <button class="button button-hero" type="submit">SUBMIT YOUR APPLICATION</button>
+                    <button class="button button_hero" type="submit">CALCULATE THE COST</button>
+                    <button class="button button_hero" type="submit">SUBMIT YOUR APPLICATION</button>
                 </div>
             </section>
 
@@ -203,7 +203,7 @@
                                     <span class="text text_second">I agree to the processing of personal data.</span>
                                 </label>
                             </div>               
-                        <button class="button button-request">  Call the measurer  </button>  
+                        <button class="button button_request">  Call the measurer  </button>  
                     </form>
                     <img class="request__icon" src="./img/Group 20-safe10percent.svg" alt="safe10persent">
                 </section>
@@ -316,24 +316,31 @@
                     <form class="form form_question" action="#" method="post">
                         <h3 class="form__title">have any questions?</h3>
                         <fieldset class="question-fieldset"> 
-                            <label class="question-fieldset__label" for="question-name"> Name </label>
-                            <input class="question-fieldset__input" type="text" id="question-name" placeholder="What is your name:">
-                            
-                            <label class="question-fieldset__label" for="question-phone"> Phone </label>
-                            <input class="question-fieldset__input" type="text" id="question-phone" placeholder="Your phone number:">
-                            
-                            <label class="question-fieldset__label" for="question-email"> Question </label>
-                            <input class="question-fieldset__input" type="email" id="question-email" placeholder="I want to know:">
+
+                            <div class="fieldset-box">
+                                <label class="label question-fieldset__label" for="question-name"> Name </label>
+                                <input class="question-fieldset__input" type="text" id="question-name" placeholder="What is your name:">
                             </div>
+                            
+                            <div class="fieldset-box">
+                                <label class="label question-fieldset__label" for="question-phone"> Phone </label>
+                                <input class="question-fieldset__input" type="text" id="question-phone" placeholder="Your phone number:">
+                            </div>
+
+                            <div class="fieldset-box">
+                                <label class="label question-fieldset__label" for="question-question"> Question </label>
+                                <input class="question-fieldset__input" type="text" id="question-question" placeholder="I want to know:">
+                            </div>
+
                         </fieldset>
-                        <!-- <div class="second-checkbox">
+                            <div class="third-checkbox">
                                 <label class="label">
                                     <input type="checkbox" class="checkbox" >
                                     <span class="fake"></span>
-                                    <span class="text text_second">I agree to the processing of personal data.</span>
+                                    <span class="text text_third">I agree to the processing of personal data</span>
                                 </label>
-                            </div>                -->
-                        <!-- <button class="button button-request">  Call the measurer  </button>   -->
+                            </div>                
+                            <button class="button button_question">  Submit </button>  
                     </form>
                 </section>
             </div>

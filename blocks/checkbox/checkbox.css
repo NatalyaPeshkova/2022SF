@@ -17,6 +17,7 @@
     opacity: 0;
     transition: .2s;
 }
+
 .checkbox:checked + .fake::before{
     opacity: 1;
 }
@@ -32,4 +33,16 @@
 
 .text_second {
     color: #FFFFFF;
+}
+
+.third-checkbox{
+    margin-top: 30px;
+}
+
+.text_third{
+    color: #FFFFFF;
+}
+
+.third-checkbox .fake{
+    margin-left: 117px;
 }

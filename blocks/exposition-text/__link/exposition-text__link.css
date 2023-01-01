@@ -5,3 +5,10 @@
     font-size: 20px;
     margin-bottom: 25px;
 }
+
+
+.exposition-text__link:hover {
+    color:#E3B873;
+    cursor: pointer;
+    text-decoration: underline;
+}
