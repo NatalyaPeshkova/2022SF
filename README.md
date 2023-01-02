@@ -18,4 +18,4 @@
 *ul  https://nglazov.github.io/bem-validator-page/
 
 
-GitHub Pages: "soon"
+GitHub Pages: https://natalyapeshkova.github.io/2022SF/index.html
