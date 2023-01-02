@@ -103,6 +103,9 @@
 @import url(../blocks/question-block/question-block.css);
 @import url(../blocks/question-block/_mobile/question-block_mobile.css);
 @import url(../blocks/question-block/__title/question-block__title.css);
+@import url(../blocks/question-block/__img/question-block__img.css);
+@import url(../blocks/question-block/__icon/question-block__icon.css);
+
 @import url(../blocks/question-fieldset/question-fieldset.css);
 @import url(../blocks/question-fieldset/__input/question-fieldset__input.css);
 @import url(../blocks/question-fieldset/__label/question-fieldset__label.css);
@@ -111,7 +114,11 @@
 @import url(../blocks/map/__title/map__title.css);
 @import url(../blocks/map/__icone/map__icone.css);
 @import url(../blocks/map/__image/map__image.css);
-@import url(../blocks/map/_mobile/map_mobile.css);
+
+@import url(../blocks/map-mobile/map-mobile.css);
+@import url(../blocks/map-mobile/__image/map-mobile__image.css);
+@import url(../blocks/map-mobile/__title/map-mobile__title.css);
+@import url(../blocks/map-mobile/__icon/map-mobile__icon.css);
 
 @import url(../blocks/footer/footer.css);
 

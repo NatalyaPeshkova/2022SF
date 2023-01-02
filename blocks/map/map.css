@@ -33,4 +33,7 @@
     .map{
         display: none;
     }
+    .map:before{
+        display: none;
+    }
 }

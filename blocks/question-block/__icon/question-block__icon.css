@@ -1,0 +1,17 @@
+.question-block__icon{
+    display: none;
+}
+
+@media screen and (max-width: 1300px) {
+    .question-block__icon{
+        display: block;
+        margin-top: 103px;
+        margin-bottom: 103px;
+        margin-left: 14px;
+    }
+    .question-block__icon:last-child{
+        margin-left: 241px;
+    }
+}
+
+

@@ -6,6 +6,7 @@
 @media screen and (max-width: 1300px) {
     .question-block_mobile{
         display: block;
+        left: 0;
         width: 375px;
         height: 1000px;
         margin-left: 0;

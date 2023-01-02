@@ -1,0 +1,11 @@
+@media screen and (max-width: 1300px) {
+    .map-mobile__icon{
+        width: 39px;
+        height: 39px;
+    }
+    .map-mobile__icon:first-of-type{
+        margin-left: 20px;
+    }
+}
+
+

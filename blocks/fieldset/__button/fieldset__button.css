@@ -10,12 +10,13 @@
     }
 }
 
-.fieldset__button_mobil{
+#onlineMobileButton{
     display: none;
 }
 
 @media screen and (max-width: 1300px) {
-    .fieldset__button_mobile {
+    #onlineMobileButton {
+        display: block;
         width: 340px;
         height: 51px;
         text-shadow: none;
