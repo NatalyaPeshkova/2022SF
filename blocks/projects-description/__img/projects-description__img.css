@@ -11,6 +11,13 @@
         background-image: url(../../../img/progects-mobileBGND.jpg);
         margin-top: 67px;
     }
+    .projects-description__img.question-block__img{
+        background-image: url(../../../img/question-mobileBGND.jpg);
+        margin-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        align-self: center;
+        z-index: 5;
 }
-
+}
 

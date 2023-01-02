@@ -76,6 +76,7 @@
 
 @import url(../blocks/form/_request/_request.css);
 @import url(../blocks/form/__title/form__title.css);
+@import url(../blocks/form/_question/form_question.css);
 
 @import url(../blocks/fieldset/_request/_request.css);
 @import url(../blocks/fieldset/_question/fieldset_question.css);
@@ -100,14 +101,17 @@
 @import url(../blocks/clients-element/__button/clients-element__button.css);
 
 @import url(../blocks/question-block/question-block.css);
+@import url(../blocks/question-block/_mobile/question-block_mobile.css);
+@import url(../blocks/question-block/__title/question-block__title.css);
 @import url(../blocks/question-fieldset/question-fieldset.css);
 @import url(../blocks/question-fieldset/__input/question-fieldset__input.css);
 @import url(../blocks/question-fieldset/__label/question-fieldset__label.css);
 
 @import url(../blocks/map/map.css);
 @import url(../blocks/map/__title/map__title.css);
-@import url(../blocks/map/__icon/map__icon.css);
+@import url(../blocks/map/__icone/map__icone.css);
 @import url(../blocks/map/__image/map__image.css);
+@import url(../blocks/map/_mobile/map_mobile.css);
 
 @import url(../blocks/footer/footer.css);
 

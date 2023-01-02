@@ -4,3 +4,12 @@
     padding: 18px 54px;
     width: 200px;
 }
+
+@media screen and (max-width: 1300px) {
+    .button_question{
+        width: 340px;
+        margin-left: 18px;
+        margin-right: auto;
+        align-self: center;
+    }
+}

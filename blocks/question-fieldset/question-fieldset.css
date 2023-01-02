@@ -3,11 +3,21 @@
     flex-direction: row;
     flex-wrap: wrap;
     width: 520px;
-    /* height: 289px; */
     border: none;
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
+}
+
+@media screen and (max-width: 1300px) {
+    .question-fieldset{
+        flex-direction: column;
+        width: 340px;
+        align-self: center;
+        margin-left: 0;
+        margin-right: 0;
+
+    }
 }
 

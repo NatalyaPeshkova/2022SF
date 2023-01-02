@@ -2,3 +2,13 @@
     margin-top: 43px;
     max-width: 925px;
 }
+
+
+@media screen and (max-width: 1300px) {
+    .map__image{
+        width: 340px;
+        height: 255px;
+        margin-top: 0;
+    }
+}
+

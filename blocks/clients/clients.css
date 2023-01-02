@@ -6,3 +6,9 @@
     background-size: contain;
 
 }
+
+@media screen and (max-width: 1300px) {
+    .clients{
+        display: none;
+    }
+}

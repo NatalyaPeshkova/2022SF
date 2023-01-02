@@ -11,5 +11,8 @@
     .elements{
         grid-template-columns: repeat(1, auto);
         grid-template-rows: repeat(3, auto);
+        margin-left: 0;
+        margin-right: 0;
+        padding: 0;
     }
 }

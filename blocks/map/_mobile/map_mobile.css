@@ -1,0 +1,16 @@
+.map_mobile{
+    display: none;
+}
+
+
+@media screen and (max-width: 1300px) {
+    .map_mobile{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: black;
+        width: 375px;
+        padding-bottom: 50px;
+    }
+}
+

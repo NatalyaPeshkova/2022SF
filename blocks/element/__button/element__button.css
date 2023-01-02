@@ -12,6 +12,7 @@
     .element__button {
         left: 0;
         top: 445px;
-        width: 270px;
+        width: 190px;
+        margin-top: 17px;
     }
 }

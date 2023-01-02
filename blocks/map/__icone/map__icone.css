@@ -1,0 +1,16 @@
+.map__icone{
+    width: 28px;
+    height: 28px;
+}
+
+
+@media screen and (max-width: 1300px) {
+    .map__icone{
+        width: 39px;
+        height: 39px;
+    }
+    .map__icone:first-of-type{
+        margin-left: 20px;
+    }
+}
+

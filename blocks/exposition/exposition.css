@@ -9,3 +9,9 @@
     color: white;
 }
 
+@media screen and (max-width: 1300px) {
+    .exposition{
+        margin-top: 0;
+        display: none;
+    }
+}

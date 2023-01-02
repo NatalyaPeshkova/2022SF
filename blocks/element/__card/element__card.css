@@ -21,6 +21,8 @@
         top: 223px;
         width: 270px;
         height: 241px;
+        box-sizing:content-box;
+        padding: 0;
 
     }
 }
