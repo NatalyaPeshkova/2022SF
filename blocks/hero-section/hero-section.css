@@ -1,15 +1,14 @@
 .hero-section {
-    position: absolute;
-    top: 277px;
-    left: 134px;
-    width: 676px;
-    height: 305px;    
+    margin-top: -530px;
+    margin-left: 134px;
+    width: 676px; 
 }
 
 @media screen and (max-width: 1300px) {
     .hero-section {
         width: 375px;
-        left: 18px;
-        top: 142px;
+        margin-top: -400px;
+        margin-left: 18px;
+        margin-right: 18px;
     }
 }
