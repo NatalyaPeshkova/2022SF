@@ -1,12 +1,13 @@
 .clients-element__button{
     width: 293px;
     height: 54px;
-    background-image: url(../../../img/Clients\ -\ button1.jpg);
+    /* background-image: url(../../../img/Clients\ -\ button1.jpg); */
     background-size: cover;
     padding: 0;
+    background-color: #E3B873;
 }
 
-#secondButton{
+/* #secondButton{
     background-image: url(../../../img/Clients\ -\ button2.jpg);
     background-size: cover;
     padding: 0;
@@ -14,4 +15,4 @@
 
 #thirdButton{
     background-image: url(../../../img/Clients\ -\ button3.jpg);
-}
+} */

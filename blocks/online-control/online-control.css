@@ -3,21 +3,25 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /* margin: 0 auto; */
     width: 817px;
+    margin-top: -324px;
+    margin-left: 311px;
+    margin-bottom: 100px; 
+    /* margin: 0 auto; */
     /* position: absolute;
     top: 1555px;
     left: 311px; */
-    margin-bottom: 100px;
 }
 
 @media screen and (max-width: 1300px) {
     .online-control {
-        position: relative;
-        top: 0;
-        left: 0;
+        /* position: relative; */
+        /* top: 0;
+        left: 0; */
         background-color: black;
         width: 375px;
         margin-bottom: 0;
+        margin-top: 0;
+        margin-left: 0;
     }
 }
