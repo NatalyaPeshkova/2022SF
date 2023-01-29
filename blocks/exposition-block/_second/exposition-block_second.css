@@ -9,7 +9,7 @@
 
 .exposition-block_second img:first-child{
     margin-bottom: 40px;
-    width: 354px;
+    max-width: 354px;
     height: 275px;
 }
 

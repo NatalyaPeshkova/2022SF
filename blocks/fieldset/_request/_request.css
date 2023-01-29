@@ -3,7 +3,7 @@
     justify-content: flex-start;
     align-items: flex-start;
     margin: 0;
-    width: 408px;
+    max-width: 408px;
     height: 244px;
     color: white;
     margin-top: 39px;

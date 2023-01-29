@@ -8,6 +8,7 @@
 
 .exposition-block img:first-child{
     margin-bottom: 40px;
+    max-width: 354px;
 }
 
 .exposition-block img:last-child{
@@ -17,4 +18,10 @@
 
 .exposition-block_second img:last-child{
     height: auto;
+}
+
+@media screen and (max-width: 1300px) {
+    .exposition-block{
+        width: 300px;
+    }
 }
