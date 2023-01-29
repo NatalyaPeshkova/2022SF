@@ -1,0 +1,8 @@
+.projects-nav__arrow{
+    margin-right: 20px;
+}
+
+.projects-nav__arrow:last-child{
+    margin-right: 0;
+    margin-left: 10px;
+}

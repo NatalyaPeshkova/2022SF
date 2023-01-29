@@ -1,0 +1,10 @@
+.projects-nav__point{
+    width: 10px;
+    height: 10px;
+    margin-right: 12px;
+    opacity: .5;
+}
+
+.checked__point{
+    opacity: 1;
+}
