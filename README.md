@@ -18,7 +18,6 @@
 *ul  https://yoksel.github.io/html-tree/
 
 
-GitHub Pages: https://natalyapeshkova.github.io/2022SF/index.html
 
 
 
