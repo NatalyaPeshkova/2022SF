@@ -1,6 +1,5 @@
 .request__icon{
     margin-top: 39px;
-    margin-left: 866px;
-    align-self: flex-end;
     flex-wrap: wrap;
+    align-self: flex-start;
 }

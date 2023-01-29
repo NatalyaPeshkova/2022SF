@@ -11,7 +11,10 @@
 }
 
 .exposition-block img:last-child{
-    width: 353px;
+    max-width: 353px;
     height: 350px;
 }
 
+.exposition-block_second img:last-child{
+    height: auto;
+}

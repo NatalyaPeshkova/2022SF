@@ -59,6 +59,7 @@
 @import url(../blocks/fieldset-box/__label_request/fieldset-box__label_request.css);
 @import url(../blocks/fieldset-box/__input/fieldset-box__input.css);
 @import url(../blocks/fieldset-box/__input_request/fieldset-box__input_request.css);
+@import url(../blocks/request-block/request-block.css);
 
 @import url(../blocks/checkbox/checkbox.css);
 

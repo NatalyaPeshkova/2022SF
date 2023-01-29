@@ -1,7 +1,7 @@
 .exposition{
     background-image: url(../../img/Group\ 22-bgnd.png);
     height: 864px;
-    width: 1440px;
+    max-width: 1440px;
     margin-top: 196px;
     display: grid;
     grid-template-columns: 500px 354px 354px;
@@ -16,4 +16,3 @@
     }
 }
 
-/* надо разобраться  */
