@@ -5,16 +5,14 @@
 
 @media screen and (max-width: 1300px) {
     .question-block_mobile{
-        display: block;
-        left: 0;
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
         width: 375px;
         height: 1000px;
-        margin-left: 0;
-        margin-right: 0;
-        margin-bottom: 0;
         align-self: center;
         background-color: white;
-        position: relative;
+        /* position: relative; */
         z-index: 0;
     }
 }

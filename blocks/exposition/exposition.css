@@ -1,13 +1,16 @@
 .exposition{
     background-image: url(../../img/Group\ 22-bgnd.png);
     height: 864px;
-    max-width: 1440px;
     margin-top: 196px;
+}
+
+.exposition__wrapper{
     display: grid;
     grid-template-columns: auto auto auto;
     grid-column-gap: 80px;
     color: white;
 }
+
 
 @media screen and (max-width: 1300px) {
     .exposition{

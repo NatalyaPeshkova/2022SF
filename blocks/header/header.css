@@ -1,16 +1,27 @@
 .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     background-color: #131313;
-    margin: 0;
-    padding: 23px 82px 23px 100px;
-    max-width: 1256px;
 }
 
 
 @media screen and (max-width: 1300px) {
     .header {
         padding: 23px 18px;
+    }
+}
+
+.header__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin: 0;
+    padding: 23px 82px 23px 100px;
+    max-width: 1256px;
+}
+
+@media screen and (max-width: 1300px) {
+    .header__wrapper {
+        max-width: 375px;
+        margin: 0 auto;
+        padding: 0;
     }
 }

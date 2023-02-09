@@ -5,12 +5,16 @@
 
 @media screen and (max-width: 1300px) {
     .map-mobile{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
         background-color: black;
-        width: 375px;
-        padding-bottom: 50px;
+        display: flex;        
     }
 }
 
+@media screen and (max-width: 1300px) {
+    .map-mobile__wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 50px;
+    }
+}

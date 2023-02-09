@@ -43,10 +43,6 @@
     color: #FFFFFF;
 }
 
-.third-checkbox .fake{
-    margin-left: 117px;
-}
-
 @media screen and (max-width: 1300px) {
     .first-checkbox {
         color: white;

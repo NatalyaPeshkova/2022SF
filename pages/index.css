@@ -1,7 +1,6 @@
 @import url(../vendor/normalize.css);
 
 @import url(../blocks/wrapper/wrapper.css);
-@import url(../blocks/wrapper/wrapper_prodjects/wrapper_prodjects.css);
 
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/_hero/button_hero.css);

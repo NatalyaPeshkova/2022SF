@@ -1,11 +1,15 @@
 .types {
+    margin-top: 0;
+    margin-bottom: 124px;
+}
+
+.types__wrapper{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 0;
-    margin-bottom: 124px;
 }
+
 
 @media screen and (max-width: 1300px) {
     .types{
@@ -14,3 +18,5 @@
         margin-bottom: 0;
     }
 }
+
+

@@ -1,18 +1,19 @@
 .online-control {
+    margin: 0 auto;
+    margin-top: -324px;
+}
+
+.online-control__wrapper{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 817px;
-    margin-top: -324px;
-    margin-left: 311px;
-    margin-bottom: 100px; 
+    margin-bottom: 100px;
 }
 
 @media screen and (max-width: 1300px) {
     .online-control {
         background-color: black;
-        width: 375px;
         margin-bottom: 0;
         margin-top: 0;
         margin-left: 0;
